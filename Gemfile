@@ -39,6 +39,7 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem 'sqlite3', '1.3.13'
   gem 'pry-rails'
+  gem 'rails-controller-testing'
 end
 
 group :production do
