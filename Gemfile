@@ -25,6 +25,7 @@ gem 'bootstrap-sass', '3.3.7'
 
 gem 'bcrypt',         '3.1.12'
 
+gem 'faker',          '1.7.3'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
